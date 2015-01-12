@@ -20,9 +20,11 @@ I played around a lot with UI and visual elements. Here is a list of subtle nuan
 
 
 <b> Demo </b>
-(demo.gif)
+![Video Walkthrough](demo.gif)
 
 
+
+-
 
 
 
