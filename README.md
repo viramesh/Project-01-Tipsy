@@ -20,6 +20,7 @@ I played around a lot with UI and visual elements. Here is a list of subtle nuan
 
 
 <b> Demo </b>
+
 ![Video Walkthrough](demo.gif)
 
 
