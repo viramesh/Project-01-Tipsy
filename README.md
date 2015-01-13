@@ -12,6 +12,7 @@ Approximately 10 - 12
 
 <b> Additional Work (beyond assignment) </b>
 I played around a lot with UI and visual elements. Here is a list of subtle nuances that I added to improve the experience.
+
 1. Visual effect of blurring the loading screen as background
 
 2. Always have a $ sign show for the input value
